@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "category": "烤肉",
+    "restaurantName": "千寻烤肉",
+    "area": "连锁",
+    "address": "/",
+    "averagePrice": 80,
+    "featuredDishes": "茶泡饭、南瓜粥、牛五花、芝士榴莲、烤猪肋骨",
+    "comment": "招商银行信用卡每周三有50元代100元的优惠券，一次能用3张。美团上有158元代200元的代金券。"
+  },
+  {
+    "id": 2,
+    "category": "炒饭炒菜",
+    "restaurantName": "517蛋炒饭",
+    "area": "连锁两家店",
+    "address": "",
+    "averagePrice": 50,
+    "featuredDishes": "蛋炒饭套餐、虎皮鸡爪",
+    "comment": "味道偏咸，这个看个人口味，西红柿鸡蛋汤就这蛋炒饭在晚上当个宵夜吃很香，虎皮鸡爪味道也不错。"
+  },
+  {
+    "id": 3,
+    "category": "烤鱼",
+    "restaurantName": "银泰中心探鱼",
+    "area": "庐阳区",
+    "address": "银泰中心五楼",
+    "averagePrice": 100,
+    "featuredDishes": "麻辣烤鱼",
+    "comment": ""
+  },
+  {
+    "id": 4,
+    "category": "煲菜",
+    "restaurantName": "回味黑鸭煲",
+    "area": "蜀山区",
+    "address": "",
+    "averagePrice": 80,
+    "featuredDishes": "招牌鸭子",
+    "comment": "新手先从微微辣吃吧，姚克辣慎点不能吃辣的人真的能给食道烧坏。"
+  },
+  {
+    "id": 5,
+    "category": "东北菜",
+    "restaurantName": "飒琪烤鱼东北菜",
+    "area": "庐阳区",
+    "address": "",
+    "averagePrice": 67,
+    "featuredDishes": "67套餐",
+    "comment": ""
+  },
+  {
+    "id": 6,
+    "category": "川菜",
+    "restaurantName": "辛香汇",
+    "area": "庐阳区",
+    "address": "商之都b座五楼",
+    "averagePrice": 60,
+    "featuredDishes": "钵钵鸡，锦里奶酪，蚂蚁上树",
+    "comment": "抖音买代金券会划算些"
+  },
+  {
+    "id": 7,
+    "category": "徽菜",
+    "restaurantName": "小菜园",
+    "area": "连锁店",
+    "address": "",
+    "averagePrice": 60,
+    "featuredDishes": "红烧肉",
+    "comment": ""
+  },
+  {
+    "id": 8,
+    "category": "川菜",
+    "restaurantName": "蜀小墩肥肠鸡",
+    "area": "庐阳区",
+    "address": "白水坝",
+    "averagePrice": 60,
+    "featuredDishes": "锅贴，腰花，炒粉丝",
+    "comment": ""
+  },
+  {
+    "id": 9,
+    "category": "韩餐",
+    "restaurantName": "概念韩餐KOOKING",
+    "area": "庐阳区",
+    "address": "万象汇",
+    "averagePrice": 60,
+    "featuredDishes": "冰淇淋，龙虾拌饭，米酒",
+    "comment": "抖音买代金券会划算些"
+  },
+  {
+    "id": 10,
+    "category": "披萨",
+    "restaurantName": "做披萨的奇葩",
+    "area": "连锁",
+    "address": "",
+    "averagePrice": 80,
+    "featuredDishes": "榴莲口味",
+    "comment": ""
+  },
+  {
+    "id": 11,
+    "category": "淮扬菜",
+    "restaurantName": "芳芳私房菜",
+    "area": "庐阳区",
+    "address": "阜阳路",
+    "averagePrice": 150,
+    "featuredDishes": "松鼠鱼，海胆芝士焗南瓜，响油鳝糊，狮子头，烧饼",
+    "comment": "不好停车，需要提前去。除了贵没有其他问题了，菜品基本上还行。点黑椒猪肋条的时候出现肉质发臭，管理不到位，建议猪肋条慎点。"
+  },
+  {
+    "id": 12,
+    "category": "淮扬菜",
+    "restaurantName": "芳芳淮阳菜",
+    "area": "蜀山区",
+    "address": "望江西路与石台路交口",
+    "averagePrice": 150,
+    "featuredDishes": "松鼠桂鱼、八宝鸭、狮子头、响油鳝糊、牛腩、羊肉汤、藕饼",
+    "comment": "蜀山店的整体体验感高于阜阳路店，环境不错。基本上没有踩坑的菜，八宝鸭特别推荐，烤熟的鸭肉里面加了糯米饭，极其下饭。老卤鹅比之前在阜阳路店的好吃，但还是稍微有点咸（个人口味，也有人喜欢）。"
+  },
+  {
+    "id": 13,
+    "category": "粤菜",
+    "restaurantName": "粤域茶餐厅",
+    "area": "包河区",
+    "address": "尚都酒店2楼",
+    "averagePrice": 90,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 14,
+    "category": "江西菜",
+    "restaurantName": "邻家芳姐土菜馆",
+    "area": "经开区",
+    "address": "紫蓬路",
+    "averagePrice": 60,
+    "featuredDishes": "金钱圈、鸡爪、糖醋里脊",
+    "comment": "超级辣 ，辣椒炒辣椒，服务不好"
+  },
+  {
+    "id": 15,
+    "category": "潮汕火锅",
+    "restaurantName": "大吉利潮汕牛肉火锅",
+    "area": "蜀山区",
+    "address": "华地金融中心沿街",
+    "averagePrice": 70,
+    "featuredDishes": "牛肉丸、吊龙、诗人",
+    "comment": "美团有团购、酱料超好吃（神酱）"
+  },
+  {
+    "id": 16,
+    "category": "面食",
+    "restaurantName": "王繁星面馆",
+    "area": "蜀山区",
+    "address": "万象城",
+    "averagePrice": 45,
+    "featuredDishes": "可以点招牌面",
+    "comment": "试了面挺好吃，小笼包一般"
+  },
+  {
+    "id": 17,
+    "category": "小吃",
+    "restaurantName": "绿怡居鸡蛋灌饼",
+    "area": "政务区",
+    "address": "绿怡居农贸市场",
+    "averagePrice": 10,
+    "featuredDishes": "加肉鸡蛋灌饼",
+    "comment": "我心目中合肥鸡蛋灌饼天花板，一般都点两个。"
+  },
+  {
+    "id": 18,
+    "category": "煲仔饭",
+    "restaurantName": "煲仔皇",
+    "area": "连锁",
+    "address": "",
+    "averagePrice": 30,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 19,
+    "category": "拉面",
+    "restaurantName": "兰州拉面",
+    "area": "肥东",
+    "address": "撮镇镇，中心卫生院对面",
+    "averagePrice": 15,
+    "featuredDishes": "拉面，炒面",
+    "comment": "老板是兰州人，一家在合肥开了15年的老店，推荐去打卡。"
+  },
+  {
+    "id": 20,
+    "category": "烧烤",
+    "restaurantName": "徽州烧烤",
+    "area": "庐阳区",
+    "address": "国际风荷苑",
+    "averagePrice": 110,
+    "featuredDishes": "猪蹄，鸭爪",
+    "comment": "他家的猪蹄惊为天人，巨巨巨好吃。没有代替品，人超多，去的两次都排队2小时以上。"
+  },
+  {
+    "id": 21,
+    "category": "酸菜鱼",
+    "restaurantName": "忘不了酸菜鱼",
+    "area": "蜀山区",
+    "address": "蜀山区香樟大道280号",
+    "averagePrice": 40,
+    "featuredDishes": "酸菜鱼",
+    "comment": ""
+  },
+  {
+    "id": 22,
+    "category": "炒菜",
+    "restaurantName": "老魏饭店",
+    "area": "蜀山区",
+    "address": "蜀山区西园路与南一环路交口",
+    "averagePrice": 20,
+    "featuredDishes": "看个人喜好 都还可以",
+    "comment": "空间很小，人多的时候 没法入坐"
+  },
+  {
+    "id": 23,
+    "category": "鱼粥火锅",
+    "restaurantName": "廣東阿生魚撈·斑魚海鮮粥火鍋",
+    "area": "政务区",
+    "address": "万象城",
+    "averagePrice": 100,
+    "featuredDishes": "",
+    "comment": "养生类鱼火锅，鱼片很嫩滑。锅底自带鱼肉，可以一半涮肉一半喝粥。套餐两个人吃足够。"
+  },
+  {
+    "id": 24,
+    "category": "新疆烧烤",
+    "restaurantName": "新疆赞达目烤包子",
+    "area": "庐阳区",
+    "address": "六安路141号",
+    "averagePrice": 50,
+    "featuredDishes": "手抓饭，烤包子，羊肉串",
+    "comment": "9点去，只剩羊腿饭了，再晚点就关门了，烤包子挺好吃的，小菜配手抓饭很解腻。米饭可以加，个人感觉不是很膻，羊肉很嫩，酸奶10元一份，味道有点酸，不太推荐。"
+  },
+  {
+    "id": 25,
+    "category": "特色烧烤",
+    "restaurantName": "羊呼呼串烤·榴莲王",
+    "area": "包河区",
+    "address": "大宁缤购商业广场",
+    "averagePrice": 140,
+    "featuredDishes": "",
+    "comment": "肉质很新鲜，用的是内蒙的羊肉，品质比较高，口感好。餐厅里面有网红小姐姐跳舞，情绪价值给到了。榴莲是猫山王的，但份量很小，没什么肉。"
+  },
+  {
+    "id": 26,
+    "category": "土菜",
+    "restaurantName": "灶王小院",
+    "area": "包河区",
+    "address": "高铁南站附近",
+    "averagePrice": 110,
+    "featuredDishes": "红烧肉，特色肥肠煲，西红柿肉圆汤。蜜汁叉烧",
+    "comment": "在很深的小巷子里，但是饭店里面的环境不错。工作日中午人也很多，周末建议提前去。味道不错，肥肠非常q弹，西红柿肉圆汤很好喝。味道跟鸿泰酒楼的不相上下，口感高于简单味道。红烧肉也还行，肥的稍微多点偏甜口。有免费的烤橘子，烤红薯可以吃，也有免费的停车场，好感度加分。"
+  },
+  {
+    "id": 27,
+    "category": "东北菜",
+    "restaurantName": "利鸿东北饭店",
+    "area": "蜀山区",
+    "address": "蜀山区紫云路北天门路201号小卫超市宾馆旁",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": "厨师哈尔滨人，菜单上没有的也可以点，前提是店里有菜。"
+  },
+  {
+    "id": 28,
+    "category": "面食",
+    "restaurantName": "琥珀小余拉面",
+    "area": "蜀山区",
+    "address": "蜀山区淠河路8号(三里庵地铁站F口步行60米)",
+    "averagePrice": 15,
+    "featuredDishes": "酸菜牛肉拉面",
+    "comment": "出餐快"
+  },
+  {
+    "id": 29,
+    "category": "烤肉",
+    "restaurantName": "鑫佳源东北秘制烤肉",
+    "area": "包河区",
+    "address": "包河区天山路徽昌苑33栋商115号",
+    "averagePrice": 0,
+    "featuredDishes": "锅包肉，东北酸菜，冷面，烤菠萝 酸菜蒸饺",
+    "comment": "夫妻店都是东北人，价格略高"
+  },
+  {
+    "id": 30,
+    "category": "烤肉",
+    "restaurantName": "新疆烤肉(嘉陵江路店)",
+    "area": "包河区",
+    "address": "包河区庐州大道711号万达揽湖苑6幢商105",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 31,
+    "category": "小吃",
+    "restaurantName": "吉庆柳州螺蛳粉(滨湖店)",
+    "area": "包河区",
+    "address": "包河区庐州大道与洞庭湖路交口合肥唯品会城市奥莱3号门隔壁",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": "小菜免费"
+  },
+  {
+    "id": 32,
+    "category": "家常菜",
+    "restaurantName": "逢缘大排档(贵阳路店)",
+    "area": "包河区",
+    "address": "",
+    "averagePrice": 0,
+    "featuredDishes": "烧烤，地锅鸡",
+    "comment": "便宜好吃量大"
+  },
+  {
+    "id": 33,
+    "category": "面食",
+    "restaurantName": "老闷牛肉汤",
+    "area": "包河区",
+    "address": "包河区贵阳路与西藏路交叉口西160米",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": "底汤有辣味，人多要排队"
+  },
+  {
+    "id": 34,
+    "category": "家常菜",
+    "restaurantName": "川人川菜馆",
+    "area": "蜀山区",
+    "address": "蜀山区黄山路421号(近中国科技大学西区)",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 35,
+    "category": "面食",
+    "restaurantName": "渝味重庆小面",
+    "area": "包河区",
+    "address": "包河区庐州大道1111号联投V中心一楼",
+    "averagePrice": 15,
+    "featuredDishes": "豌杂拌面",
+    "comment": "小菜免费，免费续面"
+  },
+  {
+    "id": 36,
+    "category": "地锅鸡",
+    "restaurantName": "86号地锅鸡",
+    "area": "蜀山区",
+    "address": "蜀山区龙幡路远大尚林苑2栋113商",
+    "averagePrice": 35,
+    "featuredDishes": "",
+    "comment": "肉很嫩，辣度略高。美团上用了优惠券后，人均价格感人。等餐稍微有点慢，地锅鸡的通病。"
+  },
+  {
+    "id": 37,
+    "category": "烤肉",
+    "restaurantName": "水原烤肉",
+    "area": "蜀山区",
+    "address": "蜀山区黄山路与怀宁路交叉口1912商业街",
+    "averagePrice": 120,
+    "featuredDishes": "海鲜饼、五花肉",
+    "comment": "服务很好，专人给你现烤。价格有点小贵，但是肉质比较好，腌制入味了。蘸料很多种，干碟比较好吃"
+  },
+  {
+    "id": 38,
+    "category": "烧烤",
+    "restaurantName": "蜀钱烧烤",
+    "area": "蜀山区",
+    "address": "蜀山区荷叶地北路108号-110号",
+    "averagePrice": 80,
+    "featuredDishes": "随便点，都好吃",
+    "comment": "要去早点，高峰期烤的慢"
+  },
+  {
+    "id": 39,
+    "category": "海鲜",
+    "restaurantName": "辣小伙海鲜大排档",
+    "area": "连锁",
+    "address": "新粮仓、宁国路、贵池路等",
+    "averagePrice": 115,
+    "featuredDishes": "香辣竹节蛏、海肠海鲜捞饭、鲅鱼水饺、蟹黄豆腐、福州鱼饺",
+    "comment": "整体上还行，包厢空间小，建议不要超过10个人，并且要提前订，现场去要排队。招牌的香辣蟹蟹肉不多，感觉口味更多的是佐料堆出来的，可以试试尝个鲜。炒菜的质量一般，建议就只点海鲜一类的。皮皮虾的肉质不是很新鲜，建议不要点。海肠捞饭好吃，两款都可以。竹节蛏个头给的很大，做的也好吃。"
+  },
+  {
+    "id": 40,
+    "category": "家常菜",
+    "restaurantName": "红园酸菜鱼",
+    "area": "蜀山区",
+    "address": "蜀山区望江西路280号1号楼1楼",
+    "averagePrice": 50,
+    "featuredDishes": "雪菜肉丝，毛豆炸酱，干锅肥肠，肉末茄子，酸菜鱼",
+    "comment": "11点左右到，不用等位，不然等很久"
+  },
+  {
+    "id": 41,
+    "category": "家常菜",
+    "restaurantName": "老明光牛杂馆",
+    "area": "蜀山区",
+    "address": "蜀山区南一环路与西园路交叉口北",
+    "averagePrice": 60,
+    "featuredDishes": "牛杂锅，粉皮烧鸡",
+    "comment": "卫生不是很好，但是老板娘厨艺好"
+  },
+  {
+    "id": 42,
+    "category": "牛蛙火锅",
+    "restaurantName": "不给叫美蛙鱼头火锅",
+    "area": "连锁",
+    "address": "/",
+    "averagePrice": 80,
+    "featuredDishes": "牛蛙",
+    "comment": "招牌牛蛙好吃，每只都挺大的，19元一只，正常的话一个人要点三只，鱼头没吃过，但是应该还可以，点的人挺多的。其他的菜就一般般吧。"
+  },
+  {
+    "id": 43,
+    "category": "土菜",
+    "restaurantName": "鱼味情",
+    "area": "包河区",
+    "address": "包河区云谷路地铁站附近",
+    "averagePrice": 100,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 44,
+    "category": "川菜",
+    "restaurantName": "蜀越肥肠馆",
+    "area": "包河区",
+    "address": "科大东区附近",
+    "averagePrice": 100,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 45,
+    "category": "土菜",
+    "restaurantName": "金锅小厨",
+    "area": "包河区",
+    "address": "信达天御",
+    "averagePrice": 100,
+    "featuredDishes": "牛腩粉丝、排骨",
+    "comment": "店大欺客，不推荐，味道没以前好了"
+  },
+  {
+    "id": 46,
+    "category": "湖南菜",
+    "restaurantName": "谭辣辣",
+    "area": "连锁",
+    "address": "/",
+    "averagePrice": 100,
+    "featuredDishes": "红烧鲫鱼、猪蹄、牛蛙锅",
+    "comment": ""
+  },
+  {
+    "id": 47,
+    "category": "川菜",
+    "restaurantName": "厨师记忆",
+    "area": "蜀山区",
+    "address": "岳西路和贵池路交口",
+    "averagePrice": 60,
+    "featuredDishes": "凉拌鲫鱼、辣子鸡、麻婆豆腐",
+    "comment": "苍蝇馆子，环境一般"
+  },
+  {
+    "id": 48,
+    "category": "川菜",
+    "restaurantName": "成都味道",
+    "area": "蜀山区",
+    "address": "望江西路、怀宁路以东",
+    "averagePrice": 80,
+    "featuredDishes": "蒜泥白肉、包子、蹄花汤、蛋炒饭",
+    "comment": "环境稍好、停车有点麻烦"
+  },
+  {
+    "id": 49,
+    "category": "河南菜",
+    "restaurantName": "王忠圈胡辣汤",
+    "area": "庐阳区",
+    "address": "颖上路凤台路交口",
+    "averagePrice": 15,
+    "featuredDishes": "胡辣汤、油膜头、煎包",
+    "comment": "味道优于方中山"
+  },
+  {
+    "id": 50,
+    "category": "面馆",
+    "restaurantName": "张小妹面馆",
+    "area": "庐阳区",
+    "address": "义井路、颖上路以东",
+    "averagePrice": 20,
+    "featuredDishes": "干扣面",
+    "comment": "蚌埠味道"
+  },
+  {
+    "id": 51,
+    "category": "面馆",
+    "restaurantName": "蚌埠面馆",
+    "area": "庐阳区",
+    "address": "五河路",
+    "averagePrice": 0,
+    "featuredDishes": "干扣面",
+    "comment": "蚌埠味道"
+  },
+  {
+    "id": 52,
+    "category": "土菜",
+    "restaurantName": "铜炉全羊火锅",
+    "area": "瑶海区",
+    "address": "瑶海区凤山路大富新领地S3-124号商铺",
+    "averagePrice": 80,
+    "featuredDishes": "羊肉锅、炒猪肝、地锅鸡",
+    "comment": "羊肉锅味道好吃"
+  },
+  {
+    "id": 53,
+    "category": "麻辣烫",
+    "restaurantName": "烫江湖东北黏糊麻辣烫",
+    "area": "包河区",
+    "address": "包河区哈尔滨路以北1栋135号",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": "加点糖醋很好吃（个人口味），喜欢黏糊的可以让老板多加麻酱，老板吉林人，位置有一点偏，店里干净利索。"
+  },
+  {
+    "id": 54,
+    "category": "麻辣烫",
+    "restaurantName": "三姐麻辣烫",
+    "area": "庐阳区",
+    "address": "庐阳区撮造山巷2号(四牌楼地铁站A口步行460米)",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": "按夹子算钱的"
+  },
+  {
+    "id": 55,
+    "category": "江西菜",
+    "restaurantName": "小两口江西小炒鲜",
+    "area": "包河区",
+    "address": "包河区韶山路东方蓝海商F105号",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": "明厨，现炒"
+  },
+  {
+    "id": 56,
+    "category": "烧烤",
+    "restaurantName": "新疆阿布烧烤店",
+    "area": "包河区",
+    "address": "滨湖欣园大门口",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 57,
+    "category": "火锅",
+    "restaurantName": "愈久愈香重庆火锅",
+    "area": "瑶海区",
+    "address": "新站广场",
+    "averagePrice": 60,
+    "featuredDishes": "麻辣锅",
+    "comment": "味道好吃，美团套餐内有水果冰淇淋自助"
+  },
+  {
+    "id": 58,
+    "category": "江西菜",
+    "restaurantName": "赣小炒",
+    "area": "瑶海新站",
+    "address": "当涂路",
+    "averagePrice": 50,
+    "featuredDishes": "",
+    "comment": "好吃"
+  },
+  {
+    "id": 59,
+    "category": "干锅",
+    "restaurantName": "嘎嘎鸭下巴",
+    "area": "庐阳区",
+    "address": "步行街勤劳巷里面",
+    "averagePrice": 50,
+    "featuredDishes": "招牌锅子、冰杨梅",
+    "comment": "好吃，不辣也辣，甜辣"
+  },
+  {
+    "id": 60,
+    "category": "火锅",
+    "restaurantName": "玖门老北京涮羊肉",
+    "area": "庐阳区",
+    "address": "亳州路",
+    "averagePrice": 90,
+    "featuredDishes": "手切羊肉、羊肉串、小酥肉",
+    "comment": "性价比挺高的，需要提前几天订，排队很多，羊肉的品质新鲜"
+  },
+  {
+    "id": 61,
+    "category": "土菜",
+    "restaurantName": "王老二土饭庄",
+    "area": "瑶海区",
+    "address": "裕溪路",
+    "averagePrice": 80,
+    "featuredDishes": "白米虾，吮指茄子，牛腩煲，天目湖鱼头煲，糯米圆子",
+    "comment": "合肥开了二十多年的老店，停车方便，红烧芦花鸡不建议点，其余菜品稳定好吃"
+  },
+  {
+    "id": 62,
+    "category": "融合菜",
+    "restaurantName": "吃饭皇帝大",
+    "area": "包河区",
+    "address": "包河万象汇",
+    "averagePrice": 120,
+    "featuredDishes": "灶膛罐罐牛腩，手撕鸡，番茄炒鸡蛋，竹香排骨，米浆",
+    "comment": "湘西融合菜，非预制菜，整体值得推荐"
+  },
+  {
+    "id": 63,
+    "category": "火锅",
+    "restaurantName": "黑马路炭火锅",
+    "area": "蜀山区",
+    "address": "樊洼路",
+    "averagePrice": 80,
+    "featuredDishes": "黑豆腐，芋头，藕片虾滑，牛肉卷 鸭血",
+    "comment": "免费停车，味道中规中矩"
+  },
+  {
+    "id": 64,
+    "category": "过桥米线",
+    "restaurantName": "柒遇过桥米线",
+    "area": "肥西县",
+    "address": "禹洲天玺",
+    "averagePrice": 15,
+    "featuredDishes": "",
+    "comment": "东北过桥米线味道不错"
+  },
+  {
+    "id": 65,
+    "category": "土菜",
+    "restaurantName": "鸿泰酒楼",
+    "area": "瑶海区",
+    "address": "新站区芦岭路",
+    "averagePrice": 85,
+    "featuredDishes": "土猪肉烧排骨、雪菜烧牛腩、西红柿蛋汤、炒豆芽、蒿子粑粑、手工水饺",
+    "comment": "菜品稳定不踩坑，分量偏少、上菜偏慢"
+  },
+  {
+    "id": 66,
+    "category": "日料",
+    "restaurantName": "滨寿司",
+    "area": "庐阳区",
+    "address": "银泰中心二期",
+    "averagePrice": 105,
+    "featuredDishes": "寿喜锅、焦糖寿司三拼、大切焦糖鹅肝、烤肉风味牛肉",
+    "comment": "性价比日料，焦糖寿司推荐，海胆不推荐"
+  },
+  {
+    "id": 67,
+    "category": "火锅",
+    "restaurantName": "大力铁娃泥炉老火锅",
+    "area": "包河区",
+    "address": "包河区成都路与贵州路交中海环宇天地商业街s9栋123-126",
+    "averagePrice": 104,
+    "featuredDishes": "超级千层肚、鸭肠毛肚贡菜拼盘",
+    "comment": ""
+  },
+  {
+    "id": 68,
+    "category": "日料",
+    "restaurantName": "毛利町",
+    "area": "包河区",
+    "address": "海上五月花D3111",
+    "averagePrice": 100,
+    "featuredDishes": "大部分菜品（除紫苏鸡皮虾）",
+    "comment": "用料新鲜，老板手艺不错"
+  },
+  {
+    "id": 69,
+    "category": "日料",
+    "restaurantName": "秋寿司",
+    "area": "政务区",
+    "address": "政务区天鹅湖银泰金街2楼",
+    "averagePrice": 100,
+    "featuredDishes": "",
+    "comment": "合肥日料天花板，大众点评必吃榜"
+  },
+  {
+    "id": 70,
+    "category": "海鲜",
+    "restaurantName": "江湾海鲜大排档",
+    "area": "包河区",
+    "address": "宁国路",
+    "averagePrice": 100,
+    "featuredDishes": "老虎斑，梭子蟹，鲍鱼，皮皮虾",
+    "comment": "2025年12月新开，抖音5折券，海鲜鲜活，葱油老虎斑推荐"
+  },
+  {
+    "id": 71,
+    "category": "火锅",
+    "restaurantName": "小薄荷",
+    "area": "蜀山区",
+    "address": "华地学府名都北侧",
+    "averagePrice": 100,
+    "featuredDishes": "木姜子牛肉、包浆豆腐",
+    "comment": "云南火锅，蘸水不错，乳扇、鲜花饼不推荐"
+  },
+  {
+    "id": 72,
+    "category": "土菜",
+    "restaurantName": "李记上品轩地道土菜",
+    "area": "蜀山区",
+    "address": "蜀山区黄山路",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 73,
+    "category": "小吃",
+    "restaurantName": "五河路菜团团软鸡蛋饼和饭团",
+    "area": "庐阳区",
+    "address": "庐阳区五河路",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 74,
+    "category": "广式火锅",
+    "restaurantName": "立枝脆皮鸡火锅",
+    "area": "蜀山区",
+    "address": "贵池路美食街",
+    "averagePrice": 0,
+    "featuredDishes": "鸡肉、牛肉、烧鹅",
+    "comment": "味道不错"
+  },
+  {
+    "id": 75,
+    "category": "日式烤肉",
+    "restaurantName": "万福炭火烤肉",
+    "area": "经开区",
+    "address": "正大广场",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 76,
+    "category": "小吃",
+    "restaurantName": "小丁米线",
+    "area": "蜀山区",
+    "address": "皖河支路",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 77,
+    "category": "鸡公煲",
+    "restaurantName": "老姚鸡公煲",
+    "area": "庐阳区",
+    "address": "红星路与无为路交口",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 78,
+    "category": "土菜",
+    "restaurantName": "锦铭地摊大排档文创店",
+    "area": "庐阳区",
+    "address": "庐阳区建华文创园",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 79,
+    "category": "海鲜",
+    "restaurantName": "王和李",
+    "area": "包河区",
+    "address": "方圆荟A区4楼",
+    "averagePrice": 90,
+    "featuredDishes": "",
+    "comment": "海鲜现捞现杀新鲜，锅底简单，折后性价比高"
+  },
+  {
+    "id": 80,
+    "category": "土菜",
+    "restaurantName": "华顺土菜馆",
+    "area": "蜀山区",
+    "address": "洪岗路科大东门对面巷子里",
+    "averagePrice": 40,
+    "featuredDishes": "",
+    "comment": "家常菜实惠，人很多"
+  },
+  {
+    "id": 81,
+    "category": "土菜",
+    "restaurantName": "王二小",
+    "area": "蜀山区",
+    "address": "安庆西路329号",
+    "averagePrice": 100,
+    "featuredDishes": "糖醋排骨、肥肠、蛋黄焗锅巴",
+    "comment": "口味不错"
+  },
+  {
+    "id": 82,
+    "category": "烧烤",
+    "restaurantName": "延旭烧烤",
+    "area": "庐阳区",
+    "address": "步行街店",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": "自动旋转烤，自助水果，需提前预约"
+  },
+  {
+    "id": 83,
+    "category": "烧烤",
+    "restaurantName": "柏荣烧烤",
+    "area": "包河区",
+    "address": "九华山路101号",
+    "averagePrice": 78,
+    "featuredDishes": "羊肉串、牛腩蛋炒饭、大油边、烤五花、大闸蟹",
+    "comment": ""
+  },
+  {
+    "id": 84,
+    "category": "土菜",
+    "restaurantName": "和道食府",
+    "area": "庐阳区",
+    "address": "三孝口飞凤街11号",
+    "averagePrice": 80,
+    "featuredDishes": "娃娃鱼、羊肉汤",
+    "comment": "娃娃鱼特色，羊肉汤好吃"
+  },
+  {
+    "id": 85,
+    "category": "土菜",
+    "restaurantName": "简单味道",
+    "area": "庐阳区",
+    "address": "三孝口新华书店对面",
+    "averagePrice": 100,
+    "featuredDishes": "臭鳜鱼、西红柿汤、鱼子鱼泡、凉粉",
+    "comment": "臭鳜鱼好吃，包厢需提前预约"
+  },
+  {
+    "id": 86,
+    "category": "烧烤",
+    "restaurantName": "柏记烧烤",
+    "area": "瑶海区",
+    "address": "和平路和繁昌路交口巷子",
+    "averagePrice": 60,
+    "featuredDishes": "",
+    "comment": "苍蝇馆子，味道好，装修朴素"
+  },
+  {
+    "id": 87,
+    "category": "土菜",
+    "restaurantName": "山里土菜",
+    "area": "蜀山区",
+    "address": "科学大道106号徽宴楼右侧",
+    "averagePrice": 81,
+    "featuredDishes": "一鱼两吃（鱼头鱼尾）",
+    "comment": "包间少"
+  },
+  {
+    "id": 88,
+    "category": "火锅",
+    "restaurantName": "遇南三",
+    "area": "蜀山区",
+    "address": "奥体",
+    "averagePrice": 120,
+    "featuredDishes": "",
+    "comment": "合肥火锅top3，价格偏高，无踩坑菜"
+  },
+  {
+    "id": 89,
+    "category": "火锅",
+    "restaurantName": "大橙子火锅",
+    "area": "包河区",
+    "address": "曙光路菜市场对面巷子",
+    "averagePrice": 120,
+    "featuredDishes": "皮蛋肉丸、蛋炒饭",
+    "comment": "柿子锅甜，辣锅后期偏咸，避雷水磨年糕、烧麦，卫生情况一般"
+  },
+  {
+    "id": 90,
+    "category": "粤菜",
+    "restaurantName": "花城粤菜",
+    "area": "蜀山区",
+    "address": "海棠路香樟大道189号",
+    "averagePrice": 100,
+    "featuredDishes": "猪肚鸡汤、炸春卷、煲仔饭、菠萝包",
+    "comment": "无踩雷菜品"
+  },
+  {
+    "id": 91,
+    "category": "麻辣烫",
+    "restaurantName": "麻小牛",
+    "area": "包河区",
+    "address": "利港银河广场",
+    "averagePrice": 20,
+    "featuredDishes": "",
+    "comment": "多醋少糖仙品"
+  },
+  {
+    "id": 92,
+    "category": "小吃",
+    "restaurantName": "星月柳州螺蛳粉",
+    "area": "包河区",
+    "address": "合柴1912公园门口",
+    "averagePrice": 30,
+    "featuredDishes": "卤菜、炸蛋",
+    "comment": "大骨熬汤，米粉有嚼劲，需排队半小时"
+  },
+  {
+    "id": 93,
+    "category": "土菜",
+    "restaurantName": "壹号饭店·合肥老味道",
+    "area": "蜀山区",
+    "address": "蜀山区潜山路316号新华金融广场2幢101号",
+    "averagePrice": 100,
+    "featuredDishes": "桑葚排骨、红烧小鳜鱼",
+    "comment": "桑葚排骨推荐，红烧土公鸡、老任桥牛肉不推荐，停车不便"
+  },
+  {
+    "id": 94,
+    "category": "云南火锅",
+    "restaurantName": "九色云",
+    "area": "蜀山区",
+    "address": "万象城5楼",
+    "averagePrice": 80,
+    "featuredDishes": "288元双人套餐",
+    "comment": "菌汤鲜美，咸鱼买券更划算"
+  },
+  {
+    "id": 95,
+    "category": "新疆菜",
+    "restaurantName": "XAH SARAY",
+    "area": "蜀山区",
+    "address": "1912街区",
+    "averagePrice": 50,
+    "featuredDishes": "羊腿抓饭、葱爆羊肉、红柳羊肉串",
+    "comment": "十年老店，分量足、羊膻味轻，可叠加优惠券"
+  },
+  {
+    "id": 96,
+    "category": "家常菜",
+    "restaurantName": "乐乐酒馆",
+    "area": "包河区",
+    "address": "星海龙御湾",
+    "averagePrice": 80,
+    "featuredDishes": "干锅排骨、干锅鸡、糖醋里脊、酸辣土豆丝",
+    "comment": "家常口味，食材新鲜"
+  },
+  {
+    "id": 97,
+    "category": "家常菜",
+    "restaurantName": "严大头牛杂馆",
+    "area": "包河区",
+    "address": "包河区天山路徽昌苑西门",
+    "averagePrice": 0,
+    "featuredDishes": "牛骨髓",
+    "comment": "人多需排队"
+  },
+  {
+    "id": 98,
+    "category": "徽菜",
+    "restaurantName": "金色·蜂鸟小厨",
+    "area": "蜀山区",
+    "address": "外商俱乐部",
+    "averagePrice": 100,
+    "featuredDishes": "鱼头、臭鳜鱼、鲍鱼小炒肉、圆子汤",
+    "comment": "太太满庭芳旗下，菜品稳定，用券划算"
+  },
+  {
+    "id": 99,
+    "category": "小吃",
+    "restaurantName": "沈阳炸鸡架",
+    "area": "蜀山区",
+    "address": "建筑大学南区北二门口",
+    "averagePrice": 10,
+    "featuredDishes": "糖醋鸡排",
+    "comment": "需要排队"
+  },
+  {
+    "id": 100,
+    "category": "鸡公煲",
+    "restaurantName": "重庆鸡公煲",
+    "area": "蜀山区",
+    "address": "合工大旁边",
+    "averagePrice": 35,
+    "featuredDishes": "鸡公煲、土豆、方便面、鸭血",
+    "comment": "咸香口味，方便实惠"
+  },
+  {
+    "id": 101,
+    "category": "饺子",
+    "restaurantName": "不止饺子",
+    "area": "庐阳区",
+    "address": "三孝口地铁站出站30米",
+    "averagePrice": 23,
+    "featuredDishes": "牛肉大葱饺子、西葫芦蒸饺、猪肉芝士玉米水饺",
+    "comment": "现包现煮，牛肉大葱饺子稳定好吃"
+  },
+  {
+    "id": 102,
+    "category": "云南菜",
+    "restaurantName": "旮旯食堂",
+    "area": "包河区",
+    "address": "包河万象汇",
+    "averagePrice": 100,
+    "featuredDishes": "黑三剁、洋芋丝",
+    "comment": "口感不太云南，但下饭好吃"
+  },
+  {
+    "id": 103,
+    "category": "融合料理",
+    "restaurantName": "双禧融合料理",
+    "area": "包河区",
+    "address": "天山路徽杰苑西门23栋",
+    "averagePrice": 50,
+    "featuredDishes": "寿喜锅、番茄牛肉烩饭、古法咖喱虾",
+    "comment": "无需排队"
+  },
+  {
+    "id": 104,
+    "category": "韩餐",
+    "restaurantName": "Need",
+    "area": "包河区",
+    "address": "包河万象汇",
+    "averagePrice": 100,
+    "featuredDishes": "奶油意面、牛肉汤、土豆泥",
+    "comment": "适合拍照约会，牛排火锅不推荐"
+  },
+  {
+    "id": 105,
+    "category": "牛肉锅",
+    "restaurantName": "文慧牛店",
+    "area": "庐阳区",
+    "address": "颍上路与义井路交叉口",
+    "averagePrice": 70,
+    "featuredDishes": "牛骨清汤锅、牛肋排、腊八蒜",
+    "comment": "汤底醇厚，性价比高，需提前排队"
+  },
+  {
+    "id": 106,
+    "category": "粥",
+    "restaurantName": "栖海粥铺",
+    "area": "蜀山区",
+    "address": "海卉花市",
+    "averagePrice": 50,
+    "featuredDishes": "鲜虾牛肉粥、油条",
+    "comment": "现熬粥，需等待20分钟左右"
+  },
+  {
+    "id": 107,
+    "category": "小吃",
+    "restaurantName": "味特美",
+    "area": "包河区",
+    "address": "桐城南路曙光新村东门旁",
+    "averagePrice": 15,
+    "featuredDishes": "荠菜蒸饺、梅干菜蒸饺",
+    "comment": "饭点排队，店内位置少"
+  },
+  {
+    "id": 108,
+    "category": "苍蝇馆子",
+    "restaurantName": "朱记酸菜鱼",
+    "area": "蜀山区",
+    "address": "科大中区南边的巷子",
+    "averagePrice": 40,
+    "featuredDishes": "酸菜鱼",
+    "comment": "好吃不贵，环境一般，停车难"
+  },
+  {
+    "id": 109,
+    "category": "地锅鸡",
+    "restaurantName": "劈柴炖锅农家菜",
+    "area": "蜀山区",
+    "address": "黄山路",
+    "averagePrice": 80,
+    "featuredDishes": "地锅鸡、干货豆角",
+    "comment": "鸡肉新鲜，味道好"
+  },
+  {
+    "id": 110,
+    "category": "面馆",
+    "restaurantName": "007牛肉面馆",
+    "area": "庐阳区",
+    "address": "女人街斜对面",
+    "averagePrice": 25,
+    "featuredDishes": "牛肉炒面、牛肉面、砂锅粉丝",
+    "comment": "中辣以上好吃，辣汤是灵魂，阜南路分店一般"
+  },
+  {
+    "id": 111,
+    "category": "菜馆",
+    "restaurantName": "廖哥土鲫鱼土菜馆",
+    "area": "蜀山区",
+    "address": "锦鲤街向内150m",
+    "averagePrice": 40,
+    "featuredDishes": "鹿茸菌炒回锅肉、蟹黄土豆丝",
+    "comment": "豆腐裙带汤不错，鱼推荐红烧"
+  },
+  {
+    "id": 112,
+    "category": "寿司",
+    "restaurantName": "乐一寿司",
+    "area": "蜀山区",
+    "address": "新粮仓",
+    "averagePrice": 100,
+    "featuredDishes": "香芒鹅肝寿司、和牛、牛油果三文鱼一口饭、蒜烤牛舌",
+    "comment": "全部推荐，肥肠寿司有特色，新粮仓店仅线下取号"
+  },
+  {
+    "id": 113,
+    "category": "鸡蛋灌饼",
+    "restaurantName": "鸡蛋灌饼",
+    "area": "瑶海区",
+    "address": "瑶海区站塘路谊品生鲜超市旁边",
+    "averagePrice": 4,
+    "featuredDishes": "鸡蛋灌饼",
+    "comment": ""
+  },
+  {
+    "id": 114,
+    "category": "海鲜烧烤",
+    "restaurantName": "何小鲜",
+    "area": "蜀山区",
+    "address": "琥珀山庄琥珀中学旁",
+    "averagePrice": 80,
+    "featuredDishes": "香辣蟹、海肠捞饭、捞汁生蚝",
+    "comment": "海鲜新鲜，特价蒸汽生蚝必点，分量足"
+  },
+  {
+    "id": 115,
+    "category": "意餐",
+    "restaurantName": "Rosso红意餐",
+    "area": "包河区",
+    "address": "罍街南区11栋201",
+    "averagePrice": 0,
+    "featuredDishes": "",
+    "comment": ""
+  },
+  {
+    "id": 116,
+    "category": "鸡锅",
+    "restaurantName": "陈伟鸡窝",
+    "area": "蜀山区",
+    "address": "",
+    "averagePrice": 40,
+    "featuredDishes": "乌鸡",
+    "comment": "乌鸡嫩，价格便宜，需提前预定"
+  },
+  {
+    "id": 117,
+    "category": "火锅鸡",
+    "restaurantName": "农大超越火锅鸡",
+    "area": "蜀山区",
+    "address": "合肥大学一期天桥下",
+    "averagePrice": 35,
+    "featuredDishes": "火锅鸡",
+    "comment": "蔬菜免费吃"
+  },
+  {
+    "id": 118,
+    "category": "螺蛳粉",
+    "restaurantName": "来福螺蛳粉",
+    "area": "蜀山区",
+    "address": "合肥大学香怡小吃街",
+    "averagePrice": 20,
+    "featuredDishes": "螺蛳粉、炸蛋、木薯",
+    "comment": "比较正宗"
+  },
+  {
+    "id": 119,
+    "category": "鸡汤",
+    "restaurantName": "山可爱小食堂鸡煲鸡汤小馆",
+    "area": "高新区",
+    "address": "大蜀山山脚下半边街",
+    "averagePrice": 80,
+    "featuredDishes": "五指毛桃鸡汤加面条",
+    "comment": "鸡汤不错，面条劲道，爬山顺路可吃，专程打卡不推荐"
+  },
+  {
+    "id": 120,
+    "category": "湘菜",
+    "restaurantName": "兰湘子",
+    "area": "包河区",
+    "address": "滨湖方圆荟4F",
+    "averagePrice": 45,
+    "featuredDishes": "小炒黄牛肉、辣椒炒肉、糖醋里脊、泡菜肉沫水晶粉",
+    "comment": "好吃不贵，上菜快，可做免辣"
+  },
+  {
+    "id": 121,
+    "category": "烤肉自助",
+    "restaurantName": "烤肉名家",
+    "area": "庐阳区",
+    "address": "淮河路步行街",
+    "averagePrice": 83,
+    "featuredDishes": "",
+    "comment": "性价比高，炭烤，肉质好"
+  },
+  {
+    "id": 122,
+    "category": "火锅",
+    "restaurantName": "闲老头麻辣猪蹄",
+    "area": "肥东",
+    "address": "/",
+    "averagePrice": 60,
+    "featuredDishes": "猪蹄火锅",
+    "comment": "猪蹄入口即化，抖音团购划算，蔬菜自助，无麻酱"
+  },
+  {
+    "id": 123,
+    "category": "火锅",
+    "restaurantName": "笨姐居民楼火锅",
+    "area": "滨湖",
+    "address": "利港银河广场",
+    "averagePrice": 80,
+    "featuredDishes": "辣冒烟牛肉、糯米午餐肉、丝丝土豆",
+    "comment": "锅底香，爱吃辣推荐，有优惠券，吃完味道大"
+  },
+  {
+    "id": 124,
+    "category": "海鲜烧烤",
+    "restaurantName": "辣螃海大排档",
+    "area": "蜀山区",
+    "address": "1912街区",
+    "averagePrice": 90,
+    "featuredDishes": "麻酱凉皮、烤五花、牛肋条",
+    "comment": "主推海鲜一般，烧烤和凉皮好吃，抖音宣传过度"
+  },
+  {
+    "id": 125,
+    "category": "烧烤",
+    "restaurantName": "汪烤烤火盆牛肉",
+    "area": "包河区",
+    "address": "九华山路",
+    "averagePrice": 60,
+    "featuredDishes": "一斤牛肉鸡蛋液",
+    "comment": "现切牛肉，肉新鲜"
+  },
+  {
+    "id": 126,
+    "category": "烤鱼",
+    "restaurantName": "椒妹鲜椒烤鱼",
+    "area": "蜀山区",
+    "address": "科大西区",
+    "averagePrice": 40,
+    "featuredDishes": "非招牌口味",
+    "comment": "招牌鲜椒难吃，其他口味好吃，鱼肉新鲜，商场烤鱼避雷"
+  },
+  {
+    "id": 127,
+    "category": "火锅",
+    "restaurantName": "鸿姐老火锅",
+    "area": "蜀山区",
+    "address": "之心城",
+    "averagePrice": 110,
+    "featuredDishes": "肉类、虾滑、贡菜",
+    "comment": "锅底香，肉新鲜，不要点熟食"
+  },
+  {
+    "id": 128,
+    "category": "越南粉",
+    "restaurantName": "一处发粉",
+    "area": "政务区",
+    "address": "天鹅湖",
+    "averagePrice": 40,
+    "featuredDishes": "冬阴功火车头",
+    "comment": "越南朋友认证正宗"
+  },
+  {
+    "id": 129,
+    "category": "炒米粉",
+    "restaurantName": "阿臻新疆炒米粉",
+    "area": "蜀山区",
+    "address": "华联超市",
+    "averagePrice": 30,
+    "featuredDishes": "鸡肉炒米粉、泡菜",
+    "comment": "合肥新疆炒米粉天花板"
+  },
+  {
+    "id": 130,
+    "category": "麻辣烫",
+    "restaurantName": "梵锅水煮",
+    "area": "包河区",
+    "address": "靶场路",
+    "averagePrice": 40,
+    "featuredDishes": "",
+    "comment": "与普通麻辣烫不同，初次吃很惊艳"
+  },
+  {
+    "id": 131,
+    "category": "面",
+    "restaurantName": "老姚牛肉面",
+    "area": "瑶海区",
+    "address": "大通路",
+    "averagePrice": 20,
+    "featuredDishes": "牛肉面、面筋",
+    "comment": "重口味汤底"
+  },
+  {
+    "id": 132,
+    "category": "烧烤",
+    "restaurantName": "小东仔烧烤",
+    "area": "庐阳区",
+    "address": "逍遥津",
+    "averagePrice": 40,
+    "featuredDishes": "各种肉类",
+    "comment": "肉类新鲜，调味好，需长时间排队"
+  },
+  {
+    "id": 133,
+    "category": "面",
+    "restaurantName": "小王拉面",
+    "area": "庐阳区",
+    "address": "宜家",
+    "averagePrice": 20,
+    "featuredDishes": "牛肉面、刀削面",
+    "comment": "本地重口味，刀削面劲道"
+  },
+  {
+    "id": 134,
+    "category": "土菜",
+    "restaurantName": "牛气冲天土菜馆",
+    "area": "蜀山区",
+    "address": "科大后街",
+    "averagePrice": 50,
+    "featuredDishes": "红烧牛肉锅加粉丝",
+    "comment": "科大后街唯一推荐店"
+  },
+  {
+    "id": 135,
+    "category": "面",
+    "restaurantName": "炉桥手擀面",
+    "area": "蜀山区",
+    "address": "科大后街",
+    "averagePrice": 15,
+    "featuredDishes": "鸡丝面加鸡蛋",
+    "comment": "鸡汤好吃，人气高"
+  },
+  {
+    "id": 136,
+    "category": "湘菜",
+    "restaurantName": "味派菜园子",
+    "area": "包河区",
+    "address": "骆岗公园",
+    "averagePrice": 70,
+    "featuredDishes": "小炒黄牛肉、香干牛肉锅",
+    "comment": "仅骆岗店好吃，其他分店不推荐"
+  },
+  {
+    "id": 137,
+    "category": "面",
+    "restaurantName": "西安面馆",
+    "area": "蜀山区",
+    "address": "潜山路汉嘉都市森林领郡南门西30m",
+    "averagePrice": 18,
+    "featuredDishes": "油泼面",
+    "comment": "老板西安人，十年老店，合肥最好吃油泼面"
+  },
+  {
+    "id": 138,
+    "category": "火锅",
+    "restaurantName": "18道功夫牛杂馆",
+    "area": "瑶海区",
+    "address": "芳邻家园",
+    "averagePrice": 80,
+    "featuredDishes": "牛杂类、卤鹅",
+    "comment": "居民区老店，卤鹅肉质紧实"
+  },
+  {
+    "id": 139,
+    "category": "火锅",
+    "restaurantName": "陈伟鸡窝",
+    "area": "蜀山区",
+    "address": "石台路华府骏苑110商铺",
+    "averagePrice": 45,
+    "featuredDishes": "乌鸡火锅",
+    "comment": "宿州特色火锅，合肥首家"
+  },
+  {
+    "id": 140,
+    "category": "烤肉",
+    "restaurantName": "韩国名家料理",
+    "area": "蜀山区",
+    "address": "金大地1912街区",
+    "averagePrice": 100,
+    "featuredDishes": "石锅拌饭",
+    "comment": "肉品新鲜，小料丰富"
+  },
+  {
+    "id": 141,
+    "category": "螺蛳粉",
+    "restaurantName": "阿美螺蛳粉",
+    "area": "蜀山区",
+    "address": "港汇广场玲琅街内",
+    "averagePrice": 15,
+    "featuredDishes": "招牌螺蛳粉",
+    "comment": "味道正宗，人气小店，糖蒜好吃"
+  },
+  {
+    "id": 142,
+    "category": "地锅鸡",
+    "restaurantName": "皖北巫氏三胖地锅鸡",
+    "area": "包河区",
+    "address": "望江东路星隆国际广场2楼",
+    "averagePrice": 50,
+    "featuredDishes": "招牌地锅鸡",
+    "comment": "味道好，推荐加贴饼"
+  },
+  {
+    "id": 143,
+    "category": "汉堡包",
+    "restaurantName": "魏家凉皮",
+    "area": "连锁店",
+    "address": "/",
+    "averagePrice": 15,
+    "featuredDishes": "牛肉汉堡、酸菜粉丝、薯条",
+    "comment": "牛肉汉堡实惠，需排队"
+  },
+  {
+    "id": 144,
+    "category": "烤鱼",
+    "restaurantName": "江河里麻辣烤鱼",
+    "area": "包河区",
+    "address": "万达2楼",
+    "averagePrice": 70,
+    "featuredDishes": "烤鱼、冰粉、烤串",
+    "comment": "烤鱼好吃"
+  },
+  {
+    "id": 145,
+    "category": "小吃",
+    "restaurantName": "啊呜茶食",
+    "area": "蜀山区",
+    "address": "梅山路安徽大饭店对面",
+    "averagePrice": 20,
+    "featuredDishes": "皮蛋馄饨、炸土豆",
+    "comment": "馄饨味道一绝"
+  },
+  {
+    "id": 146,
+    "category": "蛤蜊鸡",
+    "restaurantName": "林先生蛤蜊鸡",
+    "area": "包河区",
+    "address": "国开公馆内街",
+    "averagePrice": 42,
+    "featuredDishes": "招牌蛤蜊鸡",
+    "comment": "咸甜辣口，先干锅后涮菜，鸡肉品质好"
+  },
+  {
+    "id": 147,
+    "category": "面",
+    "restaurantName": "喜上淘面馆",
+    "area": "包河区",
+    "address": "包河万达对面",
+    "averagePrice": 20,
+    "featuredDishes": "牛肉面",
+    "comment": "干净好吃，非预制"
+  },
+  {
+    "id": 148,
+    "category": "牛肉锅",
+    "restaurantName": "庖丁张",
+    "area": "政务区",
+    "address": "新地中心",
+    "averagePrice": 160,
+    "featuredDishes": "牛肉清汤锅底、牛肉条、牛杂、牛鞭、炒米",
+    "comment": "新鲜牛肉，味道好，价格偏高，适合小聚"
+  },
+  {
+    "id": 149,
+    "category": "猪肚鸡火锅",
+    "restaurantName": "顶诚肚皮鸡火锅",
+    "area": "蜀山区",
+    "address": "清溪东路翠竹园a区102栋一层",
+    "averagePrice": 80,
+    "featuredDishes": "肚皮鸡",
+    "comment": "广州本地口味，鸡肉鲜嫩、猪肚肥厚"
+  },
+  {
+    "id": 150,
+    "category": "饼",
+    "restaurantName": "晶姐香葱大饼",
+    "area": "庐阳区",
+    "address": "四里河路万科森林公园袁老四火锅楼下",
+    "averagePrice": 5,
+    "featuredDishes": "香葱大饼",
+    "comment": "排队王，下午四五点出摊，趁热吃"
+  },
+  {
+    "id": 151,
+    "category": "火锅",
+    "restaurantName": "鱼还是鱼火锅",
+    "area": "庐阳区",
+    "address": "淮河路步行街百盛对面庐州印象3楼",
+    "averagePrice": 60,
+    "featuredDishes": "糖醋鱼排",
+    "comment": "糖醋鱼排煮后好吃，锅底淡中药香，鱼片嫩"
+  },
+  {
+    "id": 152,
+    "category": "泰餐",
+    "restaurantName": "妮琪泰式家庭料理",
+    "area": "蜀山区",
+    "address": "黄山路与怀宁路",
+    "averagePrice": 120,
+    "featuredDishes": "姜黄芒果小茉莉、芒果糯米饭、冬阴功汤",
+    "comment": "停车方便，摆盘好看，适合约会过生日"
+  },
+  {
+    "id": 153,
+    "category": "韩餐",
+    "restaurantName": "熏井洞",
+    "area": "瑶海区",
+    "address": "瑶海天地4楼",
+    "averagePrice": 0,
+    "featuredDishes": "奶油意面、蔬菜沙拉、面包牛肉菠萝",
+    "comment": "适合约会拍照，分量小"
+  },
+  {
+    "id": 154,
+    "category": "烤肉",
+    "restaurantName": "水浒烤肉",
+    "area": "高新区",
+    "address": "砂之船奥莱",
+    "averagePrice": 70,
+    "featuredDishes": "五花肉、凉皮、烤辣椒、生菜",
+    "comment": "五花肉必点"
+  },
+  {
+    "id": 155,
+    "category": "烤肉",
+    "restaurantName": "牛排家",
+    "area": "庐阳区",
+    "address": "银泰中心二期8楼",
+    "averagePrice": 400,
+    "featuredDishes": "和牛牛排",
+    "comment": "肉质好，价格贵"
+  },
+  {
+    "id": 156,
+    "category": "小吃",
+    "restaurantName": "米丸堂",
+    "area": "蜀山区",
+    "address": "官亭小吃一条街",
+    "averagePrice": 18,
+    "featuredDishes": "招牌鱼子酱章鱼小丸子",
+    "comment": "料足，符合大众口味"
+  },
+  {
+    "id": 157,
+    "category": "烤全羊",
+    "restaurantName": "杨正宗烤全羊",
+    "area": "包河区",
+    "address": "太湖路",
+    "averagePrice": 150,
+    "featuredDishes": "米粉肉、羊肉汤、干锅虾、炒青菜",
+    "comment": "米粉肉、干锅虾好吃，专属车位，性价比一般"
+  },
+  {
+    "id": 158,
+    "category": "土菜",
+    "restaurantName": "暧味饭店",
+    "area": "瑶海区",
+    "address": "禹州中央城",
+    "averagePrice": 90,
+    "featuredDishes": "雪菜肥肠、红烧扒皮鱼、毛豆杂酱、干锅鸭舌",
+    "comment": "雪菜肥肠、干锅鸭舌超好吃，部分菜品两极分化"
+  },
+  {
+    "id": 159,
+    "category": "火锅",
+    "restaurantName": "门匠火锅",
+    "area": "瑶海区",
+    "address": "家和天下旁边",
+    "averagePrice": 70,
+    "featuredDishes": "大虾、各种肉类",
+    "comment": "新店空间大，水果小吃多，锅底香，免费粥品"
+  },
+  {
+    "id": 160,
+    "category": "融合中餐",
+    "restaurantName": "美食广场",
+    "area": "包河区",
+    "address": "金寨路98号",
+    "averagePrice": 15,
+    "featuredDishes": "火龙果香蕉汁",
+    "comment": ""
+  },
+  {
+    "id": 161,
+    "category": "烧烤",
+    "restaurantName": "新疆图尔孙烧烤",
+    "area": "包河区",
+    "address": "徽州大道商业步行街店",
+    "averagePrice": 70,
+    "featuredDishes": "红柳木羊肉串、烤馕、大乌苏",
+    "comment": "正宗新疆烧烤，路边可停车，烤制较慢适合聚餐"
+  },
+  {
+    "id": 162,
+    "category": "麻辣烫",
+    "restaurantName": "二宽东北老式麻辣烫",
+    "area": "包河区",
+    "address": "海达小区店",
+    "averagePrice": 20,
+    "featuredDishes": "红柳木羊肉串、烤馕、大乌苏",
+    "comment": "正宗新疆烧烤，路边可停车，烤制较慢适合聚餐"
+  }
+]
