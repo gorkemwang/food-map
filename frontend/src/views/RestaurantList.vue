@@ -22,8 +22,7 @@
             <el-table-column label="评价" prop="comment" />
             <el-table-column align="center" label="操作" fixed="right" width="120">
               <template #default="scope">
-                <!-- 绑定点击事件，跳转到高德地图 -->
-                <el-button size="small" type="primary" @click="goToAmap(scope.row)">
+                <el-button size="small" type="primary" @click="goToBaiduMap(scope.row)">
                   <el-icon>
                     <MapLocation />
                   </el-icon>
@@ -41,7 +40,7 @@
       </el-container>
     </el-container>
   </div>
-  <WorkspaceEditDialog ref="workspaceDialog" @submit="editSubmit" />
+  <RestaurantAddDialog ref="restaurantAddDialog" @submit="onRestaurantAddSubmit" />
 </template>
 
 <script setup>
@@ -49,16 +48,22 @@
 import { defineExpose, onMounted, reactive, ref, watch } from 'vue';
 import { ElMessage } from 'element-plus';
 import { MapLocation } from '@element-plus/icons-vue';
-import WorkspaceEditDialog from '@/dialogs/WorkspaceEditDialog.vue';
+import RestaurantAddDialog from '@/dialogs/RestaurantAddDialog.vue';
 import restaurants from '@/data/restaurants.json';
 import { handleError } from '@/utils/errorHandler';
+import {
+  loadUserAddedRestaurants,
+  nextRestaurantId,
+  saveRestaurantsJsonSnapshot,
+  saveUserAddedRestaurants
+} from '@/utils/restaurantLocalStorage';
 
 const loading = ref(false);
-const allRestaurants = ref([...restaurants]);
+const allRestaurants = ref([...restaurants, ...loadUserAddedRestaurants()]);
 const workspaceList = ref([]);
 const renderWorkspaceList = ref([]);
 const search = ref('');
-const workspaceDialog = ref({});
+const restaurantAddDialog = ref(null);
 
 // 分页相关数据
 const total = ref(0);
@@ -68,16 +73,24 @@ const currentPage = ref(1);
 const workspaceTable = ref(null);
 let sort = reactive({});
 
-// 跳转到高德地图搜索饭店
-const goToAmap = (row) => {
-  if (!row || !row.restaurantName) {
+const normalizeMapAddress = (addr) => {
+  const t = (addr || '').trim();
+  if (!t || /^[/／]+$/.test(t)) return '';
+  return t;
+};
+
+/** 新标签页打开百度地图：有地址时搜「地址+饭店名」，否则搜「合肥+饭店名」。使用官方 place/search URI（output=html），避免 map.baidu.com/search 被 SPA 改写为 /@坐标 导致检索丢失。 */
+const goToBaiduMap = (row) => {
+  const restaurantName = row?.restaurantName?.trim();
+  if (!row || !restaurantName) {
     ElMessage.warning('餐厅名称不存在');
     return;
   }
-  // 高德地图搜索链接（自动携带城市 + 饭店名）
-  const keywords = `合肥${row.restaurantName}`;
-  const url = `https://ditu.amap.com/search?query=${encodeURIComponent(keywords)}`;
-  // 新标签页打开
+  const address = normalizeMapAddress(row.address);
+  const keyword = address ? `${address}${restaurantName}` : `合肥${restaurantName}`;
+  const region = '合肥';
+  const src = 'task1webui|RestaurantNav';
+  const url = `https://api.map.baidu.com/place/search?query=${encodeURIComponent(keyword)}&region=${encodeURIComponent(region)}&output=html&src=${encodeURIComponent(src)}`;
   window.open(url, '_blank');
 };
 
@@ -181,15 +194,40 @@ watch(workspaceList, () => {
 //   }
 // };
 
-const editSubmit = async () => {
-  ElMessage.info('新增/编辑功能尚未接入本地 JSON 数据');
+const onRestaurantAddSubmit = async (form) => {
+  try {
+    const added = loadUserAddedRestaurants();
+    const id = nextRestaurantId(restaurants, added);
+    const record = {
+      id,
+      category: (form.category || '').trim(),
+      restaurantName: (form.restaurantName || '').trim(),
+      area: (form.area || '').trim(),
+      address: (form.address || '').trim(),
+      averagePrice: Number(form.averagePrice) || 0,
+      featuredDishes: (form.featuredDishes || '').trim(),
+      comment: (form.comment || '').trim()
+    };
+    added.push(record);
+    saveUserAddedRestaurants(added);
+    allRestaurants.value = [...restaurants, ...added];
+    await getWorkspaces(1, pageSize.value);
+    ElMessage.success('餐厅已添加');
+  } catch (e) {
+    handleError(e, '保存餐厅失败');
+  }
 };
 
 function openAddModal() {
-  workspaceDialog.value.openDialog('工作区作成', { workspaceName: '', userIDs: [] }, 'add');
+  restaurantAddDialog.value?.openDialog();
 }
 
 async function open() {
+  try {
+    saveRestaurantsJsonSnapshot(restaurants);
+  } catch (e) {
+    handleError(e, '保存 restaurants.json 到本地失败');
+  }
   await treeNodeClick();
 }
 
